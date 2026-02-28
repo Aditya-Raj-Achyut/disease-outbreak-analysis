@@ -25,12 +25,12 @@ This project analyzes **disease outbreak patterns across 10 Indian states (2020�
 ```
 Disease_Outbreak_Analysis/
 │
-├── Disease_Outbreak_Analysis.ipynb       # Main Python EDA notebook
-├── disease_outbreak_sql_queries.sql      # 10 SQL queries for KPI analysis
+├── disease-outbreak-analysis.ipynb       # Main Python EDA notebook
+├── disease-outbreak-sql-queries.sql      # 10 SQL queries for KPI analysis
 ├── disease_outbreak_data.csv             # Dataset (5000 records)
 ├── Disease_Outbreak_Dashboard.pbix       # Power BI dashboard file
 ├── Dashboard_Preview.png                 # Dashboard screenshot
-├── requirements.txt                      # Python dependencies
+├── requirement.txt                      # Python dependencies
 └── README.md
 ```
 
