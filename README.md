@@ -102,14 +102,14 @@ pip install -r requirements.txt
 
 ### 3. Launch the Jupyter Notebook
 ```bash
-jupyter notebook Disease_Outbreak_Analysis.ipynb
+jupyter notebook disease-outbreak-analysis.ipynb
 ```
 
 ### 4. Set Up PostgreSQL
 - Open **pgAdmin 4**
 - Create a new database: `disease_outbreak`
 - Run the notebook up to Step 5 to load data via SQLAlchemy
-- Then open `disease_outbreak_sql_queries.sql` in pgAdmin 4 Query Tool and run queries
+- Then open `disease-outbreak-sql-queries.sql` in pgAdmin 4 Query Tool and run queries
 
 ### 5. View the Dashboard
 Open `Disease_Outbreak_Dashboard.pbix` using **Power BI Desktop** (free download from Microsoft)
