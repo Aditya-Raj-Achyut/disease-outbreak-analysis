@@ -30,7 +30,7 @@ Disease_Outbreak_Analysis/
 ├── disease_outbreak_data.csv             # Dataset (5000 records)
 ├── Disease_Outbreak_Dashboard.pbix       # Power BI dashboard file
 ├── Dashboard_Preview.png                 # Dashboard screenshot
-├── requirement.txt                      # Python dependencies
+├── requirements.txt                      # Python dependencies
 └── README.md
 ```
 
