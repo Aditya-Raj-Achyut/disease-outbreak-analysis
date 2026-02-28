@@ -60,16 +60,20 @@ Disease_Outbreak_Analysis/
 
 ## 📸 Dashboard Preview
 
+![Dashboard Preview](Dashboard_Preview.png)
+
 > *Open `Disease_Outbreak_Dashboard.pbix` in Power BI Desktop for the full interactive experience*
 
 **Dashboard Includes:**
-- Total Cases KPI Card
-- Disease-wise Case Distribution (Bar + Pie)
-- Year-wise Trend Line Chart
-- State-wise Heatmap
-- Seasonal Outbreak Comparison
-- Age Group & Gender Breakdown
-- Patient Outcome Donut Chart
+- 4 KPI Cards — Total Cases, Avg Mortality Rate, Avg Hospitalization Days, Total Records
+- Year-wise Case Trend (Line Chart)
+- Disease-wise Case Distribution (Donut Chart)
+- Mortality Rate by Disease (Bar Chart)
+- Seasonal Outbreak Comparison (Bar Chart)
+- Monthly Case Pattern (Column Chart)
+- Age Group Mortality Analysis (Bar Chart)
+- State-wise Case Burden (Bar Chart)
+- Patient Outcome Distribution (Pie Chart)
 
 ---
 
